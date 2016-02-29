@@ -1,6 +1,7 @@
 # Lab: Cyclic Modular Dependencies With Project Jigsaw
 
-This demo project contains the code for an answer to a Stack Overflow question.
+This demo project contains the code for an
+ [answer to a Stack Overflow question](http://stackoverflow.com/a/35693883/2525313).
 It explores cyclic dependencies With
  [Project Jigsaw](http://openjdk.java.net/projects/jigsaw/).
 
